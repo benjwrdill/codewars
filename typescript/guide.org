@@ -1,5 +1,5 @@
 * Working with Typescript
-  Before starting this, typescript, mocha and nodejs must be installed. Node's version here is 10.24.1, reflected in =./.tool-versions=. You can install it using =asdf= or any other way. Typescript's version is 4.4.4. You can use the instructions on the typescript website to install. You can do the same for mocha. Better to install globally for now.
+  Before starting this, typescript, mocha, chai, and nodejs must be installed. Node's version here is 10.24.1, reflected in =./.tool-versions=. You can install it using =asdf= or any other way. Typescript's version is 4.4.4. You can use the instructions on the typescript website to install. You can do the same for mocha and chai. Better to install globally for now.
   1. =mkdir= and =cd= to the exercise directory.
   2. Copy the example file at the =typescript= root to the directory: =cp ../tsconfig.json.example ./tsconfig.json=.
   3. =touch solution.ts && touch test.ts= to create the solution and test files necessary.
